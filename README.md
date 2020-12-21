@@ -38,7 +38,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![Vue](https://img.shields.io/badge/-Vue-239120?style=flat-square&logo=Vue.js)
 
 ### Things I am interested in :mag:
-![Python](https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-FF6347?style=flat-square&logo=Go)
