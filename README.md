@@ -31,7 +31,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![React Native](https://img.shields.io/badge/-React%20Native-1F232A?style=flat-square&logo=React&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
 
 ### Things I am Learning :pencil2:
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
