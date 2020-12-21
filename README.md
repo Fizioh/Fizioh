@@ -8,7 +8,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14198826/benosmane-yassine)
 [![Website](https://img.shields.io/website?label=yassine-benosmane.fr&style=for-the-badge&logoColor=yellow)](https://yassine-benosmane.fr)
 
-![](https://komarev.com/ghpvc/?username=fizioh&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=grafikart&color=blueviolet)
 
 ### I'm a total lover of elegant React code, hacky Node code and functional Javascript code!
 
