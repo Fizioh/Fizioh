@@ -6,7 +6,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T012R8B2C2Y/C0124B712MD/user_profile/U012CB6LSSJ)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benosmaneyassine)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14198826/benosmane-yassine)
-[![Website](https://img.shields.io/website?label=yassine-benosmane.fr&style=for-the-badge&url=https%3A%2F%2Fcli.id)](https://yassine-benosmane.fr)
+[![Website](https://img.shields.io/website?label=yassine-benosmane.fr&style=for-the-badge&logo=Website)](https://yassine-benosmane.fr)
 
 ![](https://komarev.com/ghpvc/?username=cliid&color=blueviolet)
 
