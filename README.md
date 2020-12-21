@@ -40,6 +40,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ### Things I am interested in :mag:
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-FF6347?style=flat-square&logo=Go)
 
 ## My statistics:
 
