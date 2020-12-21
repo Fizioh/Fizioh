@@ -16,7 +16,7 @@
 ### I'm a total lover of elegant React code, hacky Node code and functional Javascript code!
 
 - 🔭 I just launched an app : [PanoramX](https://fizioh.github.io/panoramx/)
-- 🌱 I’m currently learning `React Native`, `Typescript` and some basic stuff about `the Operating System`
+- 🌱 I’m currently learning `React Native`, `Typescript` and some basic stuff about `the Software Architecture`
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute to more Open Source projects, Get a good GPA and launch PanoramX in App Stores(iOS and Android) with React Native.
 
