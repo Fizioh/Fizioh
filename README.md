@@ -35,7 +35,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 ### Things I am Learning :pencil2:
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C-Sharp)
+![Vue](https://img.shields.io/badge/-Vue-239120?style=flat-square&logo=Vue.js)
 
 ### Things I am interested in :mag:
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)
