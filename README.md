@@ -34,7 +34,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
 
 ### Things I am Learning :pencil2:
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-4479A1?style=flat-square&logo=GraphQL&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-239120?style=flat-square&logo=Vue.js)
 
 ### Things I am interested in :mag:
