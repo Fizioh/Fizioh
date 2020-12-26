@@ -13,7 +13,7 @@
 
 
 
-### I'm a total lover of elegant React code, hacky Node code and functional Javascript code!
+### I'm a total lover of elegant React code, magic Node code and functional Javascript code!
 
 - 🔭 I just launched an app : [PanoramX](https://fizioh.github.io/panoramx/)
 - 🌱 I’m currently learning `React Native`, `Typescript` and some basic stuff about `the Software Architecture`
