@@ -18,7 +18,7 @@
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 - 🌱 I’m currently learning `React Native`, `Typescript`, `GraphQL` and some basic stuff about `the Software Architecture`
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute to more Open Source projects and StackOverflow Q&A, Get a good GPA and launch a new portfolio website with React.
+- 🥅 2021 Goals: Contribute to more Open Source projects and StackOverflow Q&A, get a good GPA here or in FreeCodeCamp and launch a new portfolio website with React.
 
 E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
