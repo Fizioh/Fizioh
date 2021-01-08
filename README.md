@@ -16,8 +16,11 @@
 ### I'm a total lover of elegant React code, magic Node code and functional Javascript code!
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
+
 - 🌱 I’m currently learning `React Native`, `Typescript`, `GraphQL` and some basic stuff about `the Software Architecture`
+
 - 👯 I’m looking to collaborate with other developers.
+
 - 🥅 2021 Goals: Contribute to more Open Source projects and StackOverflow Q&A, get a good GPA and launch my new portfolio website with React.
 
 E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
