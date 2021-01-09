@@ -13,7 +13,7 @@
 
 
 
-### I'm a total lover of elegant React code, magic Node code and functional Javascript code!
+### I'm a lover of elegant React, magic Node and functional Javascript code
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
