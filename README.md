@@ -44,7 +44,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Go)
+![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
 
 ## My statistics:
 
