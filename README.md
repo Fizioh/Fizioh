@@ -38,13 +38,13 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 ### Things I am Learning :pencil2:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-4479A1?style=flat-square&logo=GraphQL&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
 ![Vue](https://img.shields.io/badge/-Vue-239120?style=flat-square&logo=Vue.js)
 
 ### Things I am interested in :mag:
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
 
 ## My statistics:
 
