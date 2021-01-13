@@ -35,7 +35,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-0000FF?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-1E90FFstyle=flat-square&logo=php)
 
 
 ### Things I am Learning :pencil2:
