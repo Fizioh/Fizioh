@@ -21,9 +21,9 @@
 
 - 👯 I’m looking to collaborate with other developers.
 
-- 🥅 2021 Goals: 
-Contribute to more Open Source projects and StackOverflow Q&A
-Launch 3 mobiles app (iOS/Android) with React Native and Flutter.
+- 🥅 2021 Goals: <br/>
+Contribute to more Open Source projects and StackOverflow Q&A <br/>
+Launch 3 mobiles app (iOS/Android) with React Native and Flutter <br/>
 Convert my portfolio website with React.
 
 E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
