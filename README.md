@@ -14,7 +14,7 @@
 
 ### Lover of elegant React, magic Node and functional Javascript code
 
-- 🔭 My most completes websites projects : [PanoramX](https://fizioh.github.io/panoramx/) / [Weather React](https://app-meteo-react.herokuapp.com/)
+- 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
 - 🌱 I’m currently learning `React Native`, `Typescript`, `GraphQL` and some basic stuff about `the Software Architecture`
 
