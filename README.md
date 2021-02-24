@@ -21,6 +21,7 @@
 - 👯 I’m looking to collaborate with other developers.
 
 - 🥅 2021 Goals: <br/>
+
 Contribute to Open Source projects and StackOverflow Q&A <br/>
 Launch 3 mobiles app (iOS/Android) with React Native for [PanoramX](https://fizioh.github.io/panoramx/) and with Flutter (++) or Kotlin for [CoronaStats](https://corona-stats-1.herokuapp.com/) (after added some components and stuffs) <br/>
 Convert my portfolio website with React.
