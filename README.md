@@ -42,7 +42,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 
 ### Things I am Learning :pencil2:
-![Meteor](https://img.shields.io/badge/-Meteor-FF0000?style=flat-square&logo=Meteor)
+![Meteor](https://img.shields.io/badge/-Meteor-F5F5DC?style=flat-square&logo=Meteor)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-4479A1?style=flat-square&logo=GraphQL&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
 ![Magento](https://img.shields.io/badge/-Magento-0E322C?style=flat-square&logo=Magento)
