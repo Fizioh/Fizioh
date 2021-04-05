@@ -42,14 +42,14 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 
 ### Things I am Learning :pencil2:
-![Meteor](https://img.shields.io/badge/-Meteor-F5F5DC?style=flat-square&logo=Meteor)
-![GraphQL](https://img.shields.io/badge/-GraphQL-4479A1?style=flat-square&logo=GraphQL&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0E322C?style=flat-square&logo=Django)
 ![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
-![Magento](https://img.shields.io/badge/-Magento-0E322C?style=flat-square&logo=Magento)
 
 
 ### Things I am interested in :mag:
-![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
+![Meteor](https://img.shields.io/badge/-Meteor-F5F5DC?style=flat-square&logo=Meteor)
+![GraphQL](https://img.shields.io/badge/-GraphQL-4479A1?style=flat-square&logo=GraphQL&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 
 ## My statistics:
