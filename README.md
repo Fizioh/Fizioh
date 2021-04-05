@@ -12,11 +12,11 @@
 
 
 
-### Lover of elegant React, magic Node and functional Javascript code
+### Lover of elegant Python, magic JavaScript and functional PHP code
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
-- 🌱 I’m currently learning `React Native`, `Typescript`, `GraphQL` and some basic stuff about `the Software Architecture`
+- 🌱 I’m currently learning `React Native`, `Python`, `Redux` and some basic stuff about `the Software Architecture`
 
 - 👯 I’m looking to collaborate with other developers.
 
@@ -42,6 +42,7 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 
 ### Things I am Learning :pencil2:
+![Redux](https://img.shields.io/badge/-Redux-1F343A?style=flat-square&logo=Redux)
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0E322C?style=flat-square&logo=Django)
 ![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
