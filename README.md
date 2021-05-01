@@ -16,7 +16,7 @@
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
-- 🌱 I’m currently learning `React Native`, `Python`, `Redux` and some basic stuff about `the Software Architecture`
+- 🌱 I’m currently learning `Redux`, `Python` and some basic stuff about `the Software Architecture`
 
 - 👯 I’m looking to collaborate with other developers.
 
