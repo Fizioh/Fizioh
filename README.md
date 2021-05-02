@@ -24,7 +24,7 @@
 
 Contribute to Open Source projects and StackOverflow Q&A <br/>
 Launch 3 mobiles app (iOS/Android) with React Native for [PanoramX](https://fizioh.github.io/panoramx/) and with Flutter (++) or Kotlin for [CoronaStats](https://corona-stats-1.herokuapp.com/) (after added some components and stuffs) <br/>
-Convert my portfolio website with React.
+Convert my portfolio website with React\Native
 
 E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
