@@ -35,14 +35,14 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-1F232A?style=flat-square&logo=React&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Redux](https://img.shields.io/badge/-Redux-1F343A?style=flat-square&logo=Redux)
 ![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-0175C2?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
 ### Things I am Learning :pencil2:
-![Redux](https://img.shields.io/badge/-Redux-1F343A?style=flat-square&logo=Redux)
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0E322C?style=flat-square&logo=Django)
 ![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
