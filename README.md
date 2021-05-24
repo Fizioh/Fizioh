@@ -31,11 +31,15 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ## 💻 Development Languages:
 
 ### Things I code with :zap:
+
+#Front :
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-009999?style=flat-square&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-00CCCC?style=flat-square&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-1F343A?style=flat-square&logo=Redux)
+
+#Back :
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
