@@ -32,17 +32,24 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 ### Things I code with :zap:
 
-#Front :
+
+#### Front-end
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-009999?style=flat-square&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-00CCCC?style=flat-square&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-1F343A?style=flat-square&logo=Redux)
 
-#Back :
+#### Back-end
+![PHP](https://img.shields.io/badge/-PHP-E6E6FA?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
+![Express](https://img.shields.io/badge/-Express-57466D?style=flat-square&logo=express&logoColor=white)
+
+
+#### BDD
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFE0?style=flat-square&logo=mongodb)
 
 
 
