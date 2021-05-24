@@ -38,9 +38,8 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![Redux](https://img.shields.io/badge/-Redux-1F343A?style=flat-square&logo=Redux)
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
 ![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-0175C2?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
+
 
 
 ### Things I am Learning :pencil2:
