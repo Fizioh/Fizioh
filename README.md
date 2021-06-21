@@ -47,6 +47,8 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFE0?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=flat-square&logo=postgresql)
+
 
   </h5>
 
