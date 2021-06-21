@@ -22,10 +22,10 @@
 
 - 🥅 2021 Goals : <br/>
 
-Contribute to Open Source projects and StackOverflow Q&A <br/>
-Launch a useful mobile app in the stores (iOS/Android)
-Convert my portfolio website with React\Native
-Reach the top 50 commiters in my country (around 2000 commits)
+. Contribute to Open Source projects and StackOverflow Q&A <br/>
+. Launch a useful mobile app in the stores (iOS/Android) <br/>
+. Convert my portfolio website with React\Native <br/>
+. Reach the top 50 commiters in my country (around 2000 commits)
 
 E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
