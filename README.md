@@ -12,7 +12,7 @@
 
 
 
-### Lover of elegant Python, magic JavaScript and functional PHP code
+### Lover of elegant Python, magic JavaScript and functional SQL code
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
