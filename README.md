@@ -41,25 +41,21 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 ![React Native](https://img.shields.io/badge/-React%20Native-00CCCC?style=flat-square&logo=React&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/-PHP-E6E6FA?style=flat-square&logo=php)
+![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
+![MySQL](https://img.shields.io/badge/-MySQL-DCDCDC?style=flat-square&logo=mysql)
+  
 ![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
-![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-57466D?style=flat-square&logo=express&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFE0?style=flat-square&logo=mongodb)
+![Django](https://img.shields.io/badge/-Django-0E322C?style=flat-square&logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=flat-square&logo=postgresql)
 
-
-  </h5>
-
-
-<h3 align="center">  Things I am Learning :pencil2: </h3>
-    
-  <h5 align="center">
+![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-57466D?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFE0?style=flat-square&logo=mongodb)
 
 
-![Django](https://img.shields.io/badge/-Django-0E322C?style=flat-square&logo=Django)
-![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
+ </h5>
+
+
 
   </h5>
 
@@ -69,8 +65,8 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 
 ![Meteor](https://img.shields.io/badge/-Meteor-F5F5DC?style=flat-square&logo=Meteor)
-![GraphQL](https://img.shields.io/badge/-GraphQL-4479A1?style=flat-square&logo=GraphQL&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-8B0000?style=flat-square&logo=Keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6347?style=flat-square&logo=Tensorflow&logoColor=white)
 
   </h5>
 
