@@ -35,7 +35,6 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
 <h5 align="center">
   
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-009999?style=flat-square&logo=React&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-00CCCC?style=flat-square&logo=React&logoColor=white)
