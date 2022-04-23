@@ -16,16 +16,16 @@
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
-- 🌱 I’m currently learning `Redux`, `Django` and some basic stuff about `the Software Architecture`
+- 🌱 I’m currently learning `Solidity`, `WebGL` and some basic stuff about `the Software Architecture`
 
 - 👯 I’m looking to collaborate with other developers around the world.
 
-- 🥅 2021 Goals : <br/>
+- 🥅 2022 Goals : <br/>
 
 . Contribute to Open Source projects and StackOverflow Q&A <br/>
-. Launch a useful mobile app in the stores (iOS/Android) <br/>
-. Convert my portfolio website with React\Native <br/>
-. Reach the top 50 commiters in my country (around 2000 commits)
+. Convert my portfolio website with React, Three.js (& maybe a Django back-end) <br/>
+. Reach the top 100 commiters in my country (around 1000 commits)
+. Maybe launch a useful mobile app in the stores (iOS/Android) <br/>
 
 E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
