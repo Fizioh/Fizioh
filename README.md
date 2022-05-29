@@ -67,8 +67,8 @@ E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
 
   </h5>
 
-
 <h2 align="center">  Statistics: </h2>
 
 [![Fizioh's Github Status](https://github-readme-stats.vercel.app/api?username=fizioh&show_icons=true&layout=compact&theme=dark)](https://github.com/fizioh)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizioh&count_private=true&layout=compact&theme=dark)
