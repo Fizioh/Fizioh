@@ -13,7 +13,7 @@
 
 - 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
 
-- 🌱 I’m currently learning `Solidity`, `WebGL` and some basic stuff about `the Software Architecture`
+- 🌱 I’m currently learning `Solidity`, `WebGL` and some basic stuff about `software architecture`
 
 - 👯 I’m looking to collaborate with other developers around the world.
 
