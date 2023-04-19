@@ -21,7 +21,6 @@
 
 . Contribute to Open Source projects and StackOverflow Q&A <br/>
 . Convert my portfolio website with React, Three.js (& maybe a Django back-end) <br/>
-. Reach the top 100 commiters in my country (around 1000 commits)
 . Maybe launch a useful mobile app or game in the stores (iOS/Android) <br/>
 . Launch my own E-commerce website
 
