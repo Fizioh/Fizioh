@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Yassine Benosmane engineering focus</title>
+  <desc id="desc">Khamseen OS connects agentic systems, full-stack engineering and geospatial platforms through a reliability layer.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#7ee787"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity=".28"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="248" rx="18" fill="url(#bg)" stroke="#30363d"/>
+
+  <text x="32" y="38" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">ENGINEERING SYSTEM MAP</text>
+
+  <g stroke="#30363d" stroke-width="2" fill="none">
+    <path d="M255 105 C320 105 330 105 385 105"/>
+    <path d="M645 105 C580 105 570 105 515 105"/>
+    <path d="M450 142 L450 176"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="38" y="73" width="217" height="65" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="645" y="73" width="217" height="65" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="335" y="62" width="230" height="85" rx="16" fill="#161b22" stroke="url(#accent)" stroke-width="2"/>
+    <rect x="245" y="176" width="410" height="47" rx="12" fill="#161b22" stroke="#30363d"/>
+  </g>
+
+  <circle cx="67" cy="105" r="6" fill="#58a6ff"/>
+  <text x="84" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Agentic systems</text>
+  <text x="84" y="121" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">graphs · loops · tools · approvals</text>
+
+  <circle cx="674" cy="105" r="6" fill="#d2a8ff"/>
+  <text x="691" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Geospatial platforms</text>
+  <text x="691" y="121" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">ArcGIS · spatial workflows · APIs</text>
+
+  <text x="450" y="92" text-anchor="middle" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="800">Khamseen OS</text>
+  <text x="450" y="116" text-anchor="middle" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">agent-native control plane</text>
+  <text x="450" y="133" text-anchor="middle" fill="#7ee787" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600">Python · Django · PostgreSQL · Redis</text>
+
+  <text x="450" y="195" text-anchor="middle" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Reliability layer</text>
+  <text x="450" y="213" text-anchor="middle" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">audit trails · deterministic boundaries · independent QA · observable execution</text>
+</svg>
