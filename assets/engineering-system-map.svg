@@ -1,50 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
-  <title id="title">Yassine Benosmane engineering focus</title>
-  <desc id="desc">Khamseen OS connects agentic systems, full-stack engineering and geospatial platforms through a reliability layer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+  <title id="title">Khamseen OS agent infrastructure</title>
+  <desc id="desc">Architecture map showing human authority, the Khamseen control plane, graph and loop orchestration, agent skills, runtime plumbing and replaceable runtimes.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#101722"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" x2="1">
       <stop offset="0%" stop-color="#58a6ff"/>
       <stop offset="100%" stop-color="#7ee787"/>
     </linearGradient>
-    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity=".28"/>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity=".28"/>
     </filter>
   </defs>
 
-  <rect x="1" y="1" width="898" height="248" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="1" y="1" width="898" height="388" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <text x="30" y="34" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">AGENT INFRASTRUCTURE / CONTROL PLANE</text>
 
-  <text x="32" y="38" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">ENGINEERING SYSTEM MAP</text>
-
+  <!-- connectors -->
   <g stroke="#30363d" stroke-width="2" fill="none">
-    <path d="M255 105 C320 105 330 105 385 105"/>
-    <path d="M645 105 C580 105 570 105 515 105"/>
-    <path d="M450 142 L450 176"/>
+    <path d="M450 72 L450 92"/>
+    <path d="M450 184 L450 207"/>
+    <path d="M450 274 L450 297"/>
+    <path d="M450 344 L450 357"/>
   </g>
 
+  <!-- human authority -->
   <g filter="url(#shadow)">
-    <rect x="38" y="73" width="217" height="65" rx="13" fill="#161b22" stroke="#30363d"/>
-    <rect x="645" y="73" width="217" height="65" rx="13" fill="#161b22" stroke="#30363d"/>
-    <rect x="335" y="62" width="230" height="85" rx="16" fill="#161b22" stroke="url(#accent)" stroke-width="2"/>
-    <rect x="245" y="176" width="410" height="47" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="325" y="45" width="250" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+  </g>
+  <circle cx="350" cy="62" r="5" fill="#f2cc60"/>
+  <text x="365" y="66" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Human authority</text>
+  <text x="478" y="66" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">goal · exception · approval</text>
+
+  <!-- control plane -->
+  <g filter="url(#shadow)">
+    <rect x="85" y="92" width="730" height="92" rx="15" fill="#161b22" stroke="url(#accent)" stroke-width="2"/>
+  </g>
+  <text x="115" y="119" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Khamseen OS</text>
+  <text x="241" y="119" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">authoritative agent-native control plane</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="115" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <rect x="207" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <rect x="299" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <rect x="391" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <rect x="483" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <rect x="575" y="135" width="108" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <rect x="691" y="135" width="94" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
+    <text x="157" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Task</text>
+    <text x="249" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Run</text>
+    <text x="341" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Unit</text>
+    <text x="433" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Decision</text>
+    <text x="525" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Gate</text>
+    <text x="629" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Approval</text>
+    <text x="738" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Audit</text>
   </g>
 
-  <circle cx="67" cy="105" r="6" fill="#58a6ff"/>
-  <text x="84" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Agentic systems</text>
-  <text x="84" y="121" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">graphs · loops · tools · approvals</text>
+  <!-- graph + loop -->
+  <g filter="url(#shadow)">
+    <rect x="85" y="207" width="350" height="67" rx="13" fill="#161b22" stroke="#30363d"/>
+    <rect x="465" y="207" width="350" height="67" rx="13" fill="#161b22" stroke="#30363d"/>
+  </g>
+  <circle cx="112" cy="235" r="5" fill="#58a6ff"/>
+  <text x="126" y="232" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">GRAPH</text>
+  <text x="126" y="250" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">coordinates Units · explicit dependencies · parallel fan-out</text>
+  <text x="126" y="264" fill="#7ee787" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600">WHAT NEXT</text>
 
-  <circle cx="674" cy="105" r="6" fill="#d2a8ff"/>
-  <text x="691" y="101" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Geospatial platforms</text>
-  <text x="691" y="121" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">ArcGIS · spatial workflows · APIs</text>
+  <circle cx="492" cy="235" r="5" fill="#d2a8ff"/>
+  <text x="506" y="232" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">LOOP</text>
+  <text x="506" y="250" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">produce → check → correct → repeat · bounded escalation</text>
+  <text x="506" y="264" fill="#d2a8ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600">IS IT GOOD ENOUGH</text>
 
-  <text x="450" y="92" text-anchor="middle" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="800">Khamseen OS</text>
-  <text x="450" y="116" text-anchor="middle" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">agent-native control plane</text>
-  <text x="450" y="133" text-anchor="middle" fill="#7ee787" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600">Python · Django · PostgreSQL · Redis</text>
+  <!-- runtime plumbing -->
+  <g filter="url(#shadow)">
+    <rect x="85" y="297" width="730" height="47" rx="12" fill="#161b22" stroke="#30363d"/>
+  </g>
+  <text x="112" y="316" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">Runtime plumbing</text>
+  <text x="112" y="333" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Capability → Skill → RuntimeAssignment → Harness → Sandbox → Gateway → Tools / Models</text>
 
-  <text x="450" y="195" text-anchor="middle" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Reliability layer</text>
-  <text x="450" y="213" text-anchor="middle" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">audit trails · deterministic boundaries · independent QA · observable execution</text>
+  <!-- providers -->
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#shadow)">
+    <rect x="178" y="357" width="145" height="24" rx="7" fill="#161b22" stroke="#30363d"/>
+    <rect x="335" y="357" width="145" height="24" rx="7" fill="#161b22" stroke="#30363d"/>
+    <rect x="492" y="357" width="230" height="24" rx="7" fill="#161b22" stroke="#30363d"/>
+    <text x="250" y="373" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700">Hermes · integrated</text>
+    <text x="407" y="373" text-anchor="middle" fill="#f2cc60" font-size="10" font-weight="700">OpenClaw · spike</text>
+    <text x="607" y="373" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Cursor · Codex · Claude · future</text>
+  </g>
 </svg>
