@@ -24,6 +24,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/engineering-system-map.svg" width="100%" alt="Engineering system map" />
+</p>
+
 ## Engineering
 
 - **Agentic systems** — control planes, agent/tool abstractions, approvals, audit trails, graph orchestration and corrective loops.
@@ -52,16 +56,6 @@ The goal is not to make LLMs responsible for business truth. It is to build reli
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white" alt="ArcGIS" />
-</p>
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fizioh&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="Yassine's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fizioh&theme=github-compact&hide_border=true&area=true" alt="Yassine's contribution graph" />
 </p>
 
 ---
