@@ -1,78 +1,71 @@
-<h1 align="center"> Welcome to my GitHub profile 👨‍💻</h1>
+<h1 align="center">Yassine Benosmane</h1>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Y_Benosmane)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/181029805439975425)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T012R8B2C2Y/C0124B712MD/user_profile/U012CB6LSSJ)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benosmaneyassine)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14198826/benosmane-yassine)
-[![Website](https://img.shields.io/website?label=yassine-benosmane.fr&style=for-the-badge&url=https%3A%2F%2Fyassine-benosmane.fr)](https://www.yassine-benosmane.fr)
- 
+<p align="center">
+  <strong>Full-Stack & Geospatial Engineer · Agentic Systems Builder</strong><br/>
+  Founder @ Khamseen Technologies
+</p>
 
+<p align="center">
+  I build production systems at the intersection of <strong>software engineering</strong>,
+  <strong>geospatial platforms</strong> and <strong>AI orchestration</strong>.
+</p>
 
-### Lover of elegant Python, magic JavaScript and functional SQL code
+<p align="center">
+  <a href="https://www.linkedin.com/in/benosmaneyassine">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.yassine-benosmane.fr">
+    <img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contact@yassine-benosmane.fr">
+    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 🔭 My most complete website project : [PanoramX](https://fizioh.github.io/panoramx/)
+---
 
-- 🌱 I’m currently learning `Solidity`, `WebGL` and some basic stuff about `software architecture`
+## Engineering
 
-- 👯 I’m looking to collaborate with other developers around the world.
+- **Agentic systems** — control planes, agent/tool abstractions, approvals, audit trails, graph orchestration and corrective loops.
+- **Geospatial platforms** — ArcGIS Experience Builder, ArcGIS Maps SDK for JavaScript, spatial workflows and API-driven GIS applications.
+- **Full-stack systems** — TypeScript/React frontends, Python/Django backends, PostgreSQL, Redis and containerized infrastructure.
+- **Production mindset** — deterministic boundaries around AI, explicit failure states, independent QA and observable execution.
 
-- 🥅 2022 Goals : <br/>
+## Current focus — Khamseen OS
 
-. Contribute to Open Source projects and StackOverflow Q&A <br/>
-. Convert my portfolio website with React, Three.js (& maybe a Django back-end) <br/>
-. Maybe launch a useful mobile app or game in the stores (iOS/Android) <br/>
-. Launch my own E-commerce website
+> **Agent-native enterprise control plane** for orchestrating agents, tools and deterministic systems.
 
-E-mail : [contact@yassine-benosmane.fr](mailto:contact@yassine-benosmane.fr)
+Khamseen OS is built around explicit runtime primitives:
 
-## 💻 Development Languages:
+`Agent · Task · Run · Event · Tool · ToolCall · Decision · Approval`
 
-<h3 align="center"> Things I code with :zap: </h3>
+The goal is not to make LLMs responsible for business truth. It is to build reliable systems in which autonomous agents can **produce, verify, correct and escalate** work while every meaningful action remains auditable.
 
-<h5 align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-009999?style=flat-square&logo=React&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-00CCCC?style=flat-square&logo=React&logoColor=white)
+## Stack
 
-![PHP](https://img.shields.io/badge/-PHP-E6E6FA?style=flat-square&logo=php)
-![Symfony](https://img.shields.io/badge/-Symfony-FF6347?style=flat-square&logo=Symfony)
-![MySQL](https://img.shields.io/badge/-MySQL-DCDCDC?style=flat-square&logo=mysql)
-  
-![Python](https://img.shields.io/badge/-Python-F9F61A?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0E322C?style=flat-square&logo=Django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-808080?style=flat-square&logo=postgresql)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white" alt="ArcGIS" />
+</p>
 
-![Node](https://img.shields.io/badge/-Node-E34A86?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-57466D?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFE0?style=flat-square&logo=mongodb)
+## GitHub activity
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fizioh&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="Yassine's GitHub stats" />
+</p>
 
- </h5>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fizioh&theme=github-compact&hide_border=true&area=true" alt="Yassine's contribution graph" />
+</p>
 
+---
 
-
-  </h5>
-
-<h3 align="center">  Things I am interested in :mag: </h3>
-      
-  <h5 align="center">
-
-
-![Meteor](https://img.shields.io/badge/-Meteor-F5F5DC?style=flat-square&logo=Meteor)
-![Keras](https://img.shields.io/badge/-Keras-8B0000?style=flat-square&logo=Keras&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6347?style=flat-square&logo=Tensorflow&logoColor=white)
-
-  </h5>
-
-<h2 align="center">  Statistics: </h2>
-
-<div align="center">
- 
-[![Fizioh's Github Status](https://github-readme-stats.vercel.app/api?username=fizioh&show_icons=true&layout=compact&theme=dark)](https://github.com/fizioh)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizioh&count_private=true&layout=compact&theme=dark)
- 
- </div>
-
+<p align="center">
+  <sub>Building reliable software, useful automation and systems that can explain what they did.</sub>
+</p>
