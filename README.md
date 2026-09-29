@@ -25,25 +25,39 @@
 ---
 
 <p align="center">
-  <img src="./assets/engineering-system-map.svg" width="100%" alt="Engineering system map" />
+  <img src="./assets/engineering-system-map.svg" width="100%" alt="Khamseen OS agent infrastructure map" />
 </p>
 
 ## Engineering
 
-- **Agentic systems** — control planes, agent/tool abstractions, approvals, audit trails, graph orchestration and corrective loops.
+- **Agent infrastructure** — control planes, runtime abstractions, skills, policy gates, audit trails and autonomous execution.
 - **Geospatial platforms** — ArcGIS Experience Builder, ArcGIS Maps SDK for JavaScript, spatial workflows and API-driven GIS applications.
 - **Full-stack systems** — TypeScript/React frontends, Python/Django backends, PostgreSQL, Redis and containerized infrastructure.
-- **Production mindset** — deterministic boundaries around AI, explicit failure states, independent QA and observable execution.
+- **Reliability** — deterministic checks, explicit failure states, independent QA, bounded retries and observable execution.
 
 ## Current focus — Khamseen OS
 
-> **Agent-native enterprise control plane** for orchestrating agents, tools and deterministic systems.
+> **Agent-native enterprise control plane** designed to coordinate humans, autonomous agents, deterministic systems, tools and replaceable execution runtimes.
 
-Khamseen OS is built around explicit runtime primitives:
+Khamseen owns the semantics that should not disappear inside an LLM or a vendor runtime:
 
-`Agent · Task · Run · Event · Tool · ToolCall · Decision · Approval`
+`Agent · Task · Run · Unit · Event · ToolCall · Decision · Gate · Approval · Audit`
 
-The goal is not to make LLMs responsible for business truth. It is to build reliable systems in which autonomous agents can **produce, verify, correct and escalate** work while every meaningful action remains auditable.
+The architecture deliberately separates the **control plane** from the execution plumbing. Khamseen keeps authority, policy and business state; interchangeable infrastructure can handle execution, isolation, tools and model access.
+
+### Under the hood
+
+**Graph ≠ Loop.** A graph decides which Units should exist, what actually depends on what, and what can run in parallel. A loop converges one Unit toward correctness:
+
+`produce → check → correct → repeat → escalate`
+
+**Capability ≠ Skill ≠ Tool.** Capabilities define what an agent is authorized to do. Skills encode the procedure for doing it. Tools are external actions. The Agent Skills layer is being designed around versioned `SKILL.md` contracts and progressive loading so agents receive procedural context only when it is needed.
+
+**Runtime plumbing stays replaceable.** Execution flows through abstractions such as `RuntimeAssignment`, harnesses, sandboxes and gateways rather than binding agent identity to a model or vendor. **Hermes** is integrated behind the runtime boundary; **OpenClaw** is being evaluated through a bounded external-runtime adapter spike. Cursor, Codex, Claude Code and future providers can sit behind the same architectural contract.
+
+**Deterministic before LLM.** Tests, type checks, schema validation, git diff/scope checks, dependency state, authorization and resource budgets should decide what they can before model judgment is used. Implementation and independent review remain separate execution contexts.
+
+**Human authority stays explicit.** The objective is not “AI with no humans”; it is moving human involvement toward goals, exceptions and consequential approvals instead of manually babysitting every intermediate step.
 
 ## Stack
 
@@ -61,5 +75,5 @@ The goal is not to make LLMs responsible for business truth. It is to build reli
 ---
 
 <p align="center">
-  <sub>Building reliable software, useful automation and systems that can explain what they did.</sub>
+  <sub>Building systems where agents can act autonomously without making authority, evidence or failure disappear.</sub>
 </p>
