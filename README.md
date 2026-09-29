@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/benosmaneyassine">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.yassine-benosmane.fr">
-    <img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://khamseen.tech">
+    <img src="https://img.shields.io/badge/khamseen.tech-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Khamseen" />
   </a>
-  <a href="mailto:contact@yassine-benosmane.fr">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://bocus.ai">
+    <img src="https://img.shields.io/badge/bocus.ai-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Bocus" />
   </a>
 </p>
 
