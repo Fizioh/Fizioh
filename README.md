@@ -25,39 +25,41 @@
 ---
 
 <p align="center">
-  <img src="./assets/engineering-system-map.svg" width="100%" alt="Khamseen OS agent infrastructure map" />
+  <img src="./assets/engineering-system-map.svg" width="100%" alt="Khamseen OS target architecture: human authority, control plane, scoped context, replaceable execution and evidence-based gates" />
 </p>
 
 ## Engineering
 
-- **Agent infrastructure** — control planes, runtime abstractions, skills, policy gates, audit trails and autonomous execution.
+- **Agent infrastructure** — control planes, capability delegation, Skills, runtime contracts, policy enforcement and audit.
 - **Geospatial platforms** — ArcGIS Experience Builder, ArcGIS Maps SDK for JavaScript, spatial workflows and API-driven GIS applications.
-- **Full-stack systems** — TypeScript/React frontends, Python/Django backends, PostgreSQL, Redis and containerized infrastructure.
-- **Reliability** — deterministic checks, explicit failure states, independent QA, bounded retries and observable execution.
+- **Full-stack systems** — TypeScript/React, Python/Django, PostgreSQL, Redis and containerized infrastructure.
+- **Reliability** — deterministic checks, independent QA, idempotency, execution leases, recovery and observable costs.
 
-## Current focus — Khamseen OS
+## Building Khamseen OS
 
-> **Agent-native enterprise control plane** designed to coordinate humans, autonomous agents, deterministic systems, tools and replaceable execution runtimes.
+> **An agent-native enterprise control plane:** one human authority coordinating specialized agents, deterministic engines and replaceable execution providers.
 
-Khamseen owns the semantics that should not disappear inside an LLM or a vendor runtime:
+Khamseen owns **intent, authority, Task/Run/Unit state, policy, approvals and audit**. Execution infrastructure plugs into those contracts. The direction is a modular Core supporting Commerce, Career, Finance, GIS, SaaS and R&D through scoped business modules.
 
-`Agent · Task · Run · Unit · Event · ToolCall · Decision · Gate · Approval · Audit`
+### The engineering underneath
 
-The architecture deliberately separates the **control plane** from the execution plumbing. Khamseen keeps authority, policy and business state; interchangeable infrastructure can handle execution, isolation, tools and model access.
+**Graphs coordinate. Loops converge.** Dependencies reflect actual data and state consumption; independent Units can run in parallel. Each Unit uses a bounded `produce → check → correct` loop. Atomic checkout prevents conflicting claims, while execution leases and heartbeats support explicit orphan recovery.
 
-### Under the hood
+**Capability ≠ Skill ≠ Tool.** Authorization, procedural knowledge and external actions stay separate. The Skills direction uses versioned `SKILL.md` contracts and progressive loading: metadata first, procedures when needed.
 
-**Graph ≠ Loop.** A graph decides which Units should exist, what actually depends on what, and what can run in parallel. A loop converges one Unit toward correctness:
+**The plumbing stays replaceable.** RuntimeAssignment and HarnessProvider separate agent identity from execution. Hermes, OpenClaw, Cursor, Codex and Claude Code belong behind this boundary; OpenClaw remains an evaluation track. SecureRuntimeProvider / SandboxProvider define isolation, while durable execution handles checkpoints and resume without owning domain state. OpenShell, Daytona, Inngest, Temporal and agentgateway are candidates whose adoption must justify a distinct role.
 
-`produce → check → correct → repeat → escalate`
+**Context ≠ Memory ≠ Knowledge ≠ Policy.** Scoped context serves the current Unit. MemoryProvider handles experiences and observations; KnowledgeProvider handles documents and cited retrieval. Hindsight, WeKnora and PageIndex are evaluated behind those boundaries. Context Mode is an optional context-optimization candidate. Learning becomes policy only through aggregated evidence, validation and an explicit gate.
 
-**Capability ≠ Skill ≠ Tool.** Capabilities define what an agent is authorized to do. Skills encode the procedure for doing it. Tools are external actions. The Agent Skills layer is being designed around versioned `SKILL.md` contracts and progressive loading so agents receive procedural context only when it is needed.
+**Review produces evidence. Aegis evaluates it.** Deterministic checks precede model judgment. ReviewProvider can supply specialized findings, with OpenCodeReview under evaluation; independent review remains a separate responsibility. Implementation, correction and review produce distinct execution evidence.
 
-**Runtime plumbing stays replaceable.** Execution flows through abstractions such as `RuntimeAssignment`, harnesses, sandboxes and gateways rather than binding agent identity to a model or vendor. **Hermes** is integrated behind the runtime boundary; **OpenClaw** is being evaluated through a bounded external-runtime adapter spike. Cursor, Codex, Claude Code and future providers can sit behind the same architectural contract.
+### Adoption with boundaries
 
-**Deterministic before LLM.** Tests, type checks, schema validation, git diff/scope checks, dependency state, authorization and resource budgets should decide what they can before model judgment is used. Implementation and independent review remain separate execution contexts.
+I study **Paperclip** for control-plane patterns, **ECC** for selected Skills and security evidence, **Archify** for architecture artifacts, **Impeccable** for UI quality and **Univer** for Office outputs. These are evaluation or reference tracks, not a list of shipped integrations.
 
-**Human authority stays explicit.** The objective is not “AI with no humans”; it is moving human involvement toward goals, exceptions and consequential approvals instead of manually babysitting every intermediate step.
+The current priority is **V0 closure → Skills foundation → Graph / Unit Runtime**, with secure execution, economics, memory/knowledge, learning and harness portability developed around their actual dependencies.
+
+Human involvement moves toward **goals, exceptions and consequential approvals**. Authority and evidence remain explicit throughout.
 
 ## Stack
 
@@ -75,5 +77,5 @@ The architecture deliberately separates the **control plane** from the execution
 ---
 
 <p align="center">
-  <sub>Building systems where agents can act autonomously without making authority, evidence or failure disappear.</sub>
+  <sub>Autonomous execution. Explicit authority. Verifiable outcomes.</sub>
 </p>
