@@ -1,93 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
-  <title id="title">Khamseen OS agent infrastructure</title>
-  <desc id="desc">Architecture map showing human authority, the Khamseen control plane, graph and loop orchestration, agent skills, runtime plumbing and replaceable runtimes.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590" role="img" aria-labelledby="title desc">
+  <title id="title">Khamseen OS — target architecture</title>
+  <desc id="desc">Human authority governs the Khamseen control plane. Graphs and bounded loops use scoped context from Skills, memory and document knowledge. Replaceable harnesses, secure runtimes and durable execution produce artifacts and review evidence for policy gates. Providers are candidates, not claims of installed integrations.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#101722"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#111b29"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" x2="1">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#7ee787"/>
+      <stop offset="0%" stop-color="#58a6ff"/><stop offset="100%" stop-color="#7ee787"/>
     </linearGradient>
-    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
-      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity=".28"/>
-    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#52667e"/>
+    </marker>
   </defs>
-
-  <rect x="1" y="1" width="898" height="388" rx="18" fill="url(#bg)" stroke="#30363d"/>
-  <text x="30" y="34" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">AGENT INFRASTRUCTURE / CONTROL PLANE</text>
-
-  <!-- connectors -->
-  <g stroke="#30363d" stroke-width="2" fill="none">
-    <path d="M450 72 L450 92"/>
-    <path d="M450 184 L450 207"/>
-    <path d="M450 274 L450 297"/>
-    <path d="M450 344 L450 357"/>
-  </g>
-
-  <!-- human authority -->
-  <g filter="url(#shadow)">
-    <rect x="325" y="45" width="250" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
-  </g>
-  <circle cx="350" cy="62" r="5" fill="#f2cc60"/>
-  <text x="365" y="66" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Human authority</text>
-  <text x="478" y="66" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">goal · exception · approval</text>
-
-  <!-- control plane -->
-  <g filter="url(#shadow)">
-    <rect x="85" y="92" width="730" height="92" rx="15" fill="#161b22" stroke="url(#accent)" stroke-width="2"/>
-  </g>
-  <text x="115" y="119" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Khamseen OS</text>
-  <text x="241" y="119" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">authoritative agent-native control plane</text>
-
+  <rect x="1" y="1" width="998" height="588" rx="20" fill="url(#bg)" stroke="#30363d"/>
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <rect x="115" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <rect x="207" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <rect x="299" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <rect x="391" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <rect x="483" y="135" width="84" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <rect x="575" y="135" width="108" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <rect x="691" y="135" width="94" height="27" rx="7" fill="#0d1117" stroke="#30363d"/>
-    <text x="157" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Task</text>
-    <text x="249" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Run</text>
-    <text x="341" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Unit</text>
-    <text x="433" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Decision</text>
-    <text x="525" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Gate</text>
-    <text x="629" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Approval</text>
-    <text x="738" y="153" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Audit</text>
-  </g>
+    <text x="32" y="32" fill="#8b949e" font-size="11" font-weight="700" letter-spacing="1.6">KHAMSEEN OS / ENGINEERING THE AGENT INFRASTRUCTURE</text>
+    <text x="968" y="32" text-anchor="end" fill="#7ee787" font-size="10" font-weight="600">TARGET ARCHITECTURE</text>
 
-  <!-- graph + loop -->
-  <g filter="url(#shadow)">
-    <rect x="85" y="207" width="350" height="67" rx="13" fill="#161b22" stroke="#30363d"/>
-    <rect x="465" y="207" width="350" height="67" rx="13" fill="#161b22" stroke="#30363d"/>
-  </g>
-  <circle cx="112" cy="235" r="5" fill="#58a6ff"/>
-  <text x="126" y="232" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">GRAPH</text>
-  <text x="126" y="250" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">coordinates Units · explicit dependencies · parallel fan-out</text>
-  <text x="126" y="264" fill="#7ee787" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600">WHAT NEXT</text>
+    <rect x="316" y="50" width="368" height="40" rx="10" fill="#161b22" stroke="#30363d"/>
+    <circle cx="337" cy="70" r="5" fill="#f2cc60"/>
+    <text x="352" y="75" fill="#f0f6fc" font-size="13" font-weight="700">Human authority</text>
+    <text x="663" y="75" text-anchor="end" fill="#8b949e" font-size="11">goals · exceptions · approvals</text>
+    <path d="M500 91 V111" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
 
-  <circle cx="492" cy="235" r="5" fill="#d2a8ff"/>
-  <text x="506" y="232" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">LOOP</text>
-  <text x="506" y="250" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">produce → check → correct → repeat · bounded escalation</text>
-  <text x="506" y="264" fill="#d2a8ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600">IS IT GOOD ENOUGH</text>
+    <rect x="32" y="116" width="936" height="91" rx="14" fill="#161b22" stroke="url(#accent)" stroke-width="1.5"/>
+    <text x="55" y="145" fill="#f0f6fc" font-size="19" font-weight="800">Khamseen Control Plane</text>
+    <text x="55" y="169" fill="#c9d1d9" font-size="12">Intent · Agent / Task / Run / Unit state · Policy · Budgets · Decisions · Approvals · Audit</text>
+    <text x="55" y="191" fill="#7ee787" font-size="11" font-weight="600">GRAPH coordinates dependencies and ownership. LOOP converges bounded work toward correctness.</text>
+    <text x="943" y="145" text-anchor="end" fill="#8b949e" font-size="10">OWNED SEMANTICS</text>
 
-  <!-- runtime plumbing -->
-  <g filter="url(#shadow)">
-    <rect x="85" y="297" width="730" height="47" rx="12" fill="#161b22" stroke="#30363d"/>
-  </g>
-  <text x="112" y="316" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">Runtime plumbing</text>
-  <text x="112" y="333" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Capability → Skill → RuntimeAssignment → Harness → Sandbox → Gateway → Tools / Models</text>
+    <path d="M263 208 V240" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <path d="M738 208 V240" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
 
-  <!-- providers -->
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#shadow)">
-    <rect x="178" y="357" width="145" height="24" rx="7" fill="#161b22" stroke="#30363d"/>
-    <rect x="335" y="357" width="145" height="24" rx="7" fill="#161b22" stroke="#30363d"/>
-    <rect x="492" y="357" width="230" height="24" rx="7" fill="#161b22" stroke="#30363d"/>
-    <text x="250" y="373" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700">Hermes · integrated</text>
-    <text x="407" y="373" text-anchor="middle" fill="#f2cc60" font-size="10" font-weight="700">OpenClaw · spike</text>
-    <text x="607" y="373" text-anchor="middle" fill="#c9d1d9" font-size="10" font-weight="600">Cursor · Codex · Claude · future</text>
+    <rect x="32" y="246" width="448" height="143" rx="14" fill="#161b22" stroke="#30363d"/>
+    <circle cx="55" cy="272" r="5" fill="#d2a8ff"/>
+    <text x="69" y="277" fill="#f0f6fc" font-size="15" font-weight="700">Scoped context</text>
+    <text x="55" y="303" fill="#c9d1d9" font-size="11">Skills — versioned procedures, loaded when needed</text>
+    <text x="55" y="323" fill="#c9d1d9" font-size="11">MemoryProvider — experiences and observations</text>
+    <text x="55" y="343" fill="#c9d1d9" font-size="11">KnowledgeProvider — documents and cited retrieval</text>
+    <text x="55" y="368" fill="#d2a8ff" font-size="10" font-weight="600">CONTEXT ≠ MEMORY ≠ KNOWLEDGE ≠ POLICY</text>
+
+    <path d="M481 316 H513" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+    <rect x="520" y="246" width="448" height="143" rx="14" fill="#161b22" stroke="#30363d"/>
+    <circle cx="543" cy="272" r="5" fill="#58a6ff"/>
+    <text x="557" y="277" fill="#f0f6fc" font-size="15" font-weight="700">Replaceable execution</text>
+    <text x="543" y="303" fill="#c9d1d9" font-size="11">RuntimeAssignment / HarnessProvider</text>
+    <text x="543" y="323" fill="#c9d1d9" font-size="11">Secure runtime — isolation and external enforcement</text>
+    <text x="543" y="343" fill="#c9d1d9" font-size="11">Durability — checkpoints, idempotency and recovery</text>
+    <text x="543" y="368" fill="#58a6ff" font-size="10" font-weight="600">OPTIONAL GATEWAY WHEN NATIVE CAPABILITIES LEAVE A GAP</text>
+
+    <path d="M744 390 V412 H177 V435" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+    <rect x="32" y="442" width="286" height="74" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="52" y="468" fill="#f0f6fc" font-size="13" font-weight="700">Artifacts + deterministic checks</text>
+    <text x="52" y="489" fill="#8b949e" font-size="10">committed outputs · tests · scope · provenance</text>
+    <path d="M319 479 H347" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+    <rect x="354" y="442" width="286" height="74" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="374" y="468" fill="#f0f6fc" font-size="13" font-weight="700">ReviewProvider evidence</text>
+    <text x="374" y="489" fill="#8b949e" font-size="10">structured findings · independent review</text>
+    <path d="M641 479 H669" fill="none" stroke="#52667e" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+    <rect x="676" y="442" width="292" height="74" rx="12" fill="#161b22" stroke="#7ee787"/>
+    <text x="696" y="468" fill="#f0f6fc" font-size="13" font-weight="700">Aegis / policy gate</text>
+    <text x="696" y="489" fill="#8b949e" font-size="10">accept · correct · escalate to human authority</text>
+
+    <text x="32" y="545" fill="#8b949e" font-size="11">Provider contracts first. Candidates evaluated. No hidden control plane.</text>
+    <text x="32" y="568" fill="#c9d1d9" font-size="11" font-weight="600">Autonomous execution. Explicit authority. Verifiable outcomes.</text>
+    <text x="968" y="568" text-anchor="end" fill="#8b949e" font-size="10">Khamseen Technologies</text>
   </g>
 </svg>
